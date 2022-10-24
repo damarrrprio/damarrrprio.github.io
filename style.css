@@ -1,0 +1,233 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	}
+	a {
+		color:inherit;
+		text-decoration: none;
+		}
+	body {
+		margin: 0px;
+	padding:0px;
+	font-family:'Acme';
+	background-color: rgb(223, 191, 159);
+	}			
+	 .container {
+	 	width: 80%;
+	 	margin:0 auto;
+
+	 }
+	 .container:after {
+	 	content:'';
+	 	display: block;
+	 	clear: both;
+	 }
+	 .sungchan img{
+	 	display: block;
+	 	margin-top: 30px;
+	 	margin-left: 500px;
+	 	margin-right: 500px;
+	 	border-radius: 30px;
+	 }
+	 header h1 {
+	 	float: left;
+	 	padding: 15px 0;
+	 	color: rgb(0, 0, 0);
+	 	font-family: 'Acme';
+	 }
+	 header ul {
+	 	float: right;
+	 }
+	 header ul li {
+	 	display: inline-block;
+	 }
+	 header ul li a {
+	 	padding:25px 20px;
+	 	display: inline-block;
+	 }
+	 header ul li a:hover {
+	 	background-color: rgb(153, 102, 51);
+	 	color:white;
+	 }
+	 .active {
+	 	background-color: rgb(0, 0, 0);
+	 	color:white;
+	 }
+	 section {
+	 	padding: 50px 0;
+	 }
+	 section h3 {
+	 	text-align: center;
+	 	padding: 20px 0;
+	 	color: black;
+	 }
+	 section ol {
+	 	padding-left: 20px;
+	 }
+	 section ul {
+	 	padding-left: 20px;
+	 }
+	 section p {
+	 	padding-left: 20px;
+	 }
+	 .aboutme {
+	 	width: 100%;
+	 	margin: auto;
+	 	position: relative;
+	 	border:1px solid;
+	 }
+	 .biodata img {
+	 	width: 300px;
+	 	height: 300px;
+	 	color:white;
+	 		
+	 	border-radius: 30px;
+	 	margin: auto;
+	 }
+	 .container {
+	 	width: 80%;
+	 	margin:0 auto;
+	 	background-color: rgb(134, 89, 45);
+	 	border-radius: 10px;
+	 }
+	 .container h1 {
+	 	padding-left: 20px;
+	 	font-family: 'Acme';
+	 }
+	 .container img {
+	 	height: 55px;
+  		width: 55px;
+  		padding-left: 430px;
+  		padding-top: 5px;
+	 }
+	 .biodata ul {
+	 	float: center;
+	 	margin: auto;
+	 	width: 400px;
+	 }
+	 .biodata ul li {
+	 	margin-top: 15px;
+	 	font-weight: bold;
+	 	font-family: 'comic sans-ms'
+	 }
+	 .bio {
+	 	margin: 100px;
+	 	margin-top: 30px;
+	 	border-radius: 30px;
+	 	background-color: rgb(223, 191, 159);
+	 	font-size: 20px;
+	 }
+	
+	 .container3 {
+	 	width: 80%;
+	 	margin:0 auto;
+	 	background-color: rgb(223, 191, 159);
+	 	border-radius: 10px;
+	 }
+	  .container3 h1 {
+	 	padding-left: 20px;
+	 }
+	 .container3 img {
+	 	height: 55px;
+  		width: 55px;
+  		padding-left: 430px;
+  		padding-top: 5px;
+	 }
+	 .tahun {
+	 	border:1px solid;
+	 	background-color: rgb(223, 191, 159);
+	 }
+	 .judul h2 {
+	 	color: black;
+	 	text-align: center;
+	 	border:1px solid;
+	 	padding: 20px 0;
+	 	background-color: rgb(172, 115, 57);
+	 	width: 80%;
+	 	margin:auto;
+	 	border-radius: 30px;
+	 	font-family: 'Acme';
+	 }
+	 .tahun ul {
+	 	margin-left: 30px;
+	 }
+	 .tahun p {
+	 	margin-left: 15px;
+	 	font-style: 'acme';
+	 }
+	
+	 .halaman {
+	 	background-color: rgb(223, 191, 159);
+	 }
+	 .isi{
+	 	margin-left: 30px;
+	 	margin-right: 30px;
+	 	margin-bottom: 30;
+	 	text-align: center;
+	 	font-size: 20px;
+	 	font-family: Acme;
+	 }
+	 .isi img{
+	 	display: inline-block;
+	 	margin: auto;
+	 	border-radius: 20px;
+	 }
+	 .family h2{
+	 	color: black;
+	 	text-align: center;
+	 	border:1px solid;
+	 	padding: 20px 0;
+	 	background-color: rgb(172, 115, 57) ;
+	 	width: 80%;
+	 	margin:auto;
+	 	border-radius: 30px;
+	 	font-family: 'Acme';
+	 }
+	 .family p{
+	 	color: black;
+	 	text-align: center;
+	 	background-color: rgb(223, 191, 159)  ;
+	 	width: 80%;
+	 	margin:auto;
+	 	border-radius: 30px;
+	 	font-family: 'Acme';
+	 }
+	 .keluarga{
+	 	text-align: center;
+	 	margin: auto;
+	 	font-size: 20px;
+
+	 }
+	 .keluarga img{
+	 	border-radius: 20px;
+	 	margin: auto;
+	 }
+	 .jsc{
+	 	text-align: center;
+	 }
+	  .jsc h2{
+	 	color: black;
+	 	text-align: center;
+	 	border:1px solid;
+	 	padding: 20px 0;
+	 	background-color: rgb(172, 115, 57) ;
+	 	width: 80%;
+	 	margin:auto;
+	 	border-radius: 30px;
+	 	font-family: 'Acme';
+	 }
+	 .jsc p{
+	 	color: black;
+	 	text-align: center;
+	 	background-color: rgb(223, 191, 159)  ;
+	 	width: 80%;
+	 	margin:auto;
+	 	border-radius: 30px;
+	 	font-family: 'Acme';
+	 	font-size: 20px;
+	 }
+	 .jsc img{
+	 	margin: auto;
+	 	border-radius: 10px;
+	 }
